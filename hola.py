@@ -16,3 +16,5 @@ nombre2 = {"diego","camila","cesar","david"}
 print(nombre1.intersection(nombre2))
 nombre3 = {"hhh"}
 nombre3 = {"hhh"}
+
+print("hola")
